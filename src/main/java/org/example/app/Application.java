@@ -1,7 +1,6 @@
 package org.example.app;
 
 import org.example.protobuf.AddressBookProtos;
-
 import java.util.Random;
 
 public class Application {

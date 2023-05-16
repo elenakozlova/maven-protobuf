@@ -3,20 +3,29 @@
   <component name="BspLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$USER_HOME$/Desktop/ScalaNewFeatures" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ScalaNewFeatures" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/akka-quickstart-scala" value="PREVIEW" />
         <entry key="$USER_HOME$/IdeaProjects/ScalaTutorial" value="PREVIEW" />
       </map>
     </option>
   </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="1.8" />
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$USER_HOME$/Desktop/Play2Project" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/ScalaNewFeatures" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Play2Project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ScalaNewFeatures" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/akka-quickstart-scala" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/play-scala-starter-example" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/playApp" value="PREVIEW" />
