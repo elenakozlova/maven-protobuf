@@ -35,7 +35,8 @@
                             <goal>run</goal>
                         </goals>
                         <configuration>
-                            <protocVersion>3.8.0</protocVersion>
+                            <optimizeCodegen>false</optimizeCodegen>
+                            <protocVersion>3.23.0</protocVersion>
                             <includeStdTypes>true</includeStdTypes>
                         </configuration>
                     </execution>
@@ -53,14 +54,13 @@
                             <goal>add-source</goal>
                         </goals>
                         <configuration>
-                            <optimizeCodegen>false</optimizeCodegen>
-                            <protocVersion>3.23.0</protocVersion>
-                            <includeStdTypes>true</includeStdTypes>
+                            <sources>
+                                <source>${project.basedir}/target/generated-sources</source>
+                            </sources>
                         </configuration>
                     </execution>
                 </executions>
             </plugin>
         </plugins>
     </build>
-
 </project>
